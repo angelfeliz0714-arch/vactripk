@@ -1,0 +1,26 @@
+VACTRIPK - Página web inicial
+
+ARCHIVOS:
+- index.html: estructura y textos de la página.
+- style.css: diseño, colores y adaptación a móviles.
+- script.js: menú móvil, año automático y vista previa de tu foto.
+- img/logo.svg: logo vectorial de una vaca con verduras.
+
+CÓMO ABRIR:
+1. Descomprime vactripk_web.zip.
+2. Entra en la carpeta vactripk_web.
+3. Abre index.html con Chrome o Edge.
+4. Para editar, abre la carpeta en Visual Studio Code.
+
+CÓMO PONER TU FOTO:
+1. Abre la página.
+2. Baja a la sección de contacto.
+3. Haz clic en "Tu foto aquí" y elige una foto de tu computadora.
+La vista previa funciona localmente en el navegador; para que la foto quede publicada para todos,
+debes reemplazarla en el código por un archivo de imagen y volver a publicar la web.
+
+NOTA:
+El texto del eslogan se dejó tal como lo enviaste: "Calidad precio de vicioso".
+Revisa y confirma el contenido, el número de teléfono y la información del negocio con el cliente
+antes de publicar la web definitivamente. Los textos de misión, visión, valores y "quiénes somos"
+son propuestas editables.
