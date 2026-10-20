@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Vactripk</title>
+  <desc id="desc">Vaca blanca y negra comiendo verduras verdes</desc>
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9be66d"/><stop offset="1" stop-color="#239b55"/></linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="112" fill="#e8f8ec"/>
+  <path d="M53 75 28 48 24 91 52 108Z" fill="#f8f7ee" stroke="#183f2d" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M187 75 212 48 216 91 188 108Z" fill="#f8f7ee" stroke="#183f2d" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M48 82Q38 64 31 63L34 87 53 99Z" fill="#ef9b9b"/>
+  <path d="M192 82Q202 64 209 63L206 87 187 99Z" fill="#ef9b9b"/>
+  <path d="M49 91Q42 52 80 43Q120 22 160 43Q198 52 191 91L184 151Q177 193 120 198Q63 193 56 151Z" fill="#fffdf4" stroke="#183f2d" stroke-width="6"/>
+  <path d="M63 75Q73 47 99 55L102 84Q84 100 64 94Z" fill="#263b31"/>
+  <path d="M151 50Q179 46 184 78L172 100 147 86Z" fill="#263b31"/>
+  <ellipse cx="89" cy="111" rx="8" ry="11" fill="#183f2d"/>
+  <ellipse cx="151" cy="111" rx="8" ry="11" fill="#183f2d"/>
+  <circle cx="86" cy="107" r="2.5" fill="#fff"/>
+  <circle cx="148" cy="107" r="2.5" fill="#fff"/>
+  <ellipse cx="120" cy="145" rx="48" ry="32" fill="#f2b6a5" stroke="#183f2d" stroke-width="5"/>
+  <ellipse cx="103" cy="145" rx="5" ry="7" fill="#6d4a43"/>
+  <ellipse cx="137" cy="145" rx="5" ry="7" fill="#6d4a43"/>
+  <path d="M99 165Q120 181 141 165" fill="none" stroke="#183f2d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M105 42 113 28 126 40 139 27 147 45" fill="#f6d56a" stroke="#183f2d" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M106 183Q83 169 76 186Q93 202 112 193Z" fill="#263b31"/>
+  <path d="M136 191Q160 170 171 188Q159 205 136 201Z" fill="#263b31"/>
+  <g stroke="#1d7040" stroke-width="3" stroke-linejoin="round">
+    <path d="M117 213Q78 205 82 180Q109 181 117 213Z" fill="url(#leaf)"/>
+    <path d="M120 214Q119 181 145 174Q154 199 120 214Z" fill="#55bf62"/>
+    <path d="M117 215Q96 183 111 169Q132 188 117 215Z" fill="#80d96a"/>
+    <path d="M119 215Q141 191 163 202Q149 222 119 215Z" fill="#299e55"/>
+    <path d="M119 216 118 187" fill="none" stroke="#f5fff0" stroke-width="2"/>
+  </g>
+  <path d="M73 224Q120 234 167 224" fill="none" stroke="#239b55" stroke-width="5" stroke-linecap="round"/>
+</svg>
