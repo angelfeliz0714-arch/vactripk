@@ -18,25 +18,3 @@ mainNav.querySelectorAll('a').forEach((link) => {
 });
 
 document.getElementById('year').textContent = new Date().getFullYear();
-
-// Vista previa local de la foto personal. La imagen no se sube a ningún servidor.
-const photoInput = document.getElementById('photoInput');
-const profilePhoto = document.getElementById('profilePhoto');
-const photoPlaceholder = document.getElementById('photoPlaceholder');
-
-photoInput.addEventListener('change', (event) => {
-  const file = event.target.files && event.target.files[0];
-  if (!file) return;
-  if (!file.type.startsWith('image/')) {
-    alert('Elige un archivo de imagen, por favor.');
-    photoInput.value = '';
-    return;
-  }
-  const reader = new FileReader();
-  reader.onload = () => {
-    profilePhoto.src = reader.result;
-    profilePhoto.hidden = false;
-    photoPlaceholder.hidden = true;
-  };
-  reader.readAsDataURL(file);
-});
